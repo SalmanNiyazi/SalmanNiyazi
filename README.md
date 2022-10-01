@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SalmanNiyazi
+- 👋 Hi, I’m SalmanNiyazi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning NodeJS, MongoDB and ExpressJS
 <!---
